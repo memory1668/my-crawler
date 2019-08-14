@@ -1,0 +1,24 @@
+{
+  "name": "my-crawler",
+  "version": "0.0.1",
+  "description": "headless实现爬虫",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memory1668/my-crawler.git"
+  },
+  "author": "Jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memory1668/my-crawler/issues"
+  },
+  "homepage": "https://github.com/memory1668/my-crawler#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.2",
+    "chromium": "^2.1.1",
+    "eslint": "^6.1.0"
+  }
+}
