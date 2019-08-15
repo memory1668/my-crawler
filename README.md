@@ -10,4 +10,4 @@
 * 模拟在浏览器输入“猫”并点击搜索按钮的行为
 * 结果页面加载完成，获取图片的src属性
 * 根据src将图片保存在本地
-!(https://github.com/memory1668/images/blob/master/1565845351994.jpg?raw=true)
+![](https://github.com/memory1668/images/blob/master/1565845351994.jpg?raw=true)
