@@ -1,7 +1,6 @@
 const puppeteer = require('puppeteer');
 const {screenshot} = require('./config/default');
 
-/*eslint-disable no-unexpected-multiline*/
 (async ()=>{
   const browser = await puppeteer.launch()
   const page = await browser.newPage()
